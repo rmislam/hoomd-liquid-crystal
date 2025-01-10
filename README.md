@@ -1,4 +1,7 @@
-## Create and activate Conda environment
+# HOOMD Liquid Crystal
+Hard particle simulations of 2D liquid crystals in HOOMD-Blue
+
+## Create and activate conda environment
 ```
 conda create --name <env_name> --file requirements.txt
 conda activate <env_name>
